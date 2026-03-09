@@ -1,0 +1,5 @@
+Responsive tail wagging!
+
+This is a replication of a tail wagging setup I've done for other apps. It'll add a tail wagging/swaying to your tail that gets faster when you're smiling.
+
+You can set the wagging speed and offset your tail bone to pose it a bit how you like.
