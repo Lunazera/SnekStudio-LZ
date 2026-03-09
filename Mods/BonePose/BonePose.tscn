@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://dea800s7ayjui"]
+
+[ext_resource type="Script" uid="uid://cfwwr2l6mhddg" path="res://Mods/BonePose/BonePose.gd" id="1_kbfhn"]
+
+[node name="BonePose" type="Node3D" unique_id=765711897]
+script = ExtResource("1_kbfhn")

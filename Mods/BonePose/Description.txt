@@ -1,0 +1,3 @@
+Set X/Y/Z Rotation of a single bone.
+
+Example mod taking in Euler rotation and applying rotation directly to a bone.
