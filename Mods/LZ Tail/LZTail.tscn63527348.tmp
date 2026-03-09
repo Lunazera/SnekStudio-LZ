@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://sbh18hba7s6f"]
+
+[ext_resource type="Script" uid="uid://cmiksf5nvpsw4" path="res://Mods/LZ Tail/LZTail.gd" id="1_b1l6r"]
+
+[node name="LZTail" type="Node3D"]
+script = ExtResource("1_b1l6r")
